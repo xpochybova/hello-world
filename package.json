@@ -16,8 +16,5 @@
     "url": "https://github.com/xpochybova/hello-world/issues"
   },
   "homepage": "https://github.com/xpochybova/hello-world#readme",
-  "dependencies": {
-    "react": "^15.5.4",
-    "react-dom": "^15.5.4"
-  }
+  "dependencies": {}
 }
