@@ -1,0 +1,23 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "My first repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xpochybova/hello-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xpochybova/hello-world/issues"
+  },
+  "homepage": "https://github.com/xpochybova/hello-world#readme",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}
